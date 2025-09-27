@@ -10,7 +10,7 @@ const servicesData = [
     title: "Marriage Proposal Planning",
     description:
       "We craft personalized proposal experiences with attention to every detail, ensuring your moment is unforgettable.",
-    img: "https://i.pinimg.com/736x/04/f6/1e/04f61ed01f3f016ae428892508975848.jpg",
+    img: "https://i.pinimg.com/1200x/2a/ff/69/2aff69e9f7caa8d7602d070a424b4a53.jpg",
     icon: <FaRegHeart />,
   },
   {
@@ -26,7 +26,7 @@ const servicesData = [
     title: "Event Rentals",
     description:
       "Hand-picked furniture and décor to elevate your event effortlessly, keeping it minimal and chic.",
-    img: "https://i.pinimg.com/736x/2c/b4/51/2cb451997edde369c895deefde012d03.jpg",
+    img: "https://i.pinimg.com/1200x/67/2d/89/672d893ceadb4eefe1de0dde61260ee7.jpg",
     icon: <FaCamera />,
   },
   {
@@ -34,7 +34,7 @@ const servicesData = [
     title: "Shop the Edit",
     description:
       "Select premium props and setups curated for creating modern, stylish DIY moments.",
-    img: "https://i.pinimg.com/736x/6a/14/23/6a142306aba4d508c037a42bc2d77750.jpg",
+    img: "https://i.pinimg.com/1200x/2a/ff/69/2aff69e9f7caa8d7602d070a424b4a53.jpg",
     icon: <FaGem />,
   },
   {
@@ -50,7 +50,7 @@ const servicesData = [
     title: "Proposal Photography",
     description:
       "Capture every magical moment of your proposal with professional photography, preserving memories forever. Our expert team ensures every glance, smile, and detail is beautifully immortalized in timeless photos.",
-    img: "https://i.pinimg.com/736x/47/fe/57/47fe573a044385b2fe2e9911ae6d171e.jpg",
+    img: "https://i.pinimg.com/1200x/42/54/d0/4254d0f19423ddb3be5912ae1e1901b4.jpg",
     icon: <FaCamera />,
   },
 ];

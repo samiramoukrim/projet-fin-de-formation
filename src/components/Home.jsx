@@ -1,4 +1,5 @@
 import React, { useEffect } from "react";
+import { Link } from "react-router-dom";
 import './Home.css';
 import Test from "./Test";
 import Proposal from "./ProposalCarousel";
@@ -31,7 +32,7 @@ function Home() {
         <div className="hero__content">
           <h1>Plan Your <span className="highlight">Dream Proposal</span></h1>
           <p>Create unforgettable moments with our luxury proposal planning service.</p>
-          <a href="#packages" className="btn-gradient">Book Your Proposal</a>
+          <Link to="/StartPlanning" className="btn-gradient">Book Your Proposal</Link>
         </div>
       </section>
 

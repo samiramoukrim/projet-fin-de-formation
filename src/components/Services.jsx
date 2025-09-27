@@ -33,7 +33,7 @@ const servicesData = [
     title: "Shop the Edit",
     description:
       "Select premium props and setups curated for creating modern, stylish DIY moments.",
-    img: "https://i.pinimg.com/1200x/54/43/e5/5443e512479c7aa5847250bf92ef4f3f.jpg",
+    img: "https://i.pinimg.com/736x/58/1d/75/581d757454d5b39048c4afc46de0fafb.jpg",
     icon: <FaGem />,
   },
   {
